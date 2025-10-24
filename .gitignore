@@ -397,3 +397,6 @@ FodyWeavers.xsd
 
 # Windows
 Thumbs.db
+
+!/Packages/manifest.json
+!/Packages/packages-lock.json
